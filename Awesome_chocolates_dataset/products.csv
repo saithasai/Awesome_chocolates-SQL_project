@@ -1,0 +1,23 @@
+PID,Product,Category,Size,Cost_per_box
+P01,Milk bars,Bars,LARGE,1.52
+P02,50% Dark bites,Bites,LARGE,2.57
+P03,Almond choco,Bars,LARGE,9.6
+P04,Raspberry choco,Bars,LARGE,4.09
+P05,Mint chip choco,Bars,LARGE,1.54
+P06,Eclairs,Bites,LARGE,2.24
+P07,Drinking coco,Other,LARGE,1.62
+P08,99% Dark & pure,Bars,LARGE,2.47
+P09,Orange choco,Bars,LARGE,7.14
+P10,Spicy special slims,Bites,LARGE,5.79
+P11,After nines,Bites,LARGE,4.43
+P12,Fruit & bars,Bars,LARGE,1.58
+P13,85% Dark bars,Bars,SMALL,0.64
+P14,White choc,Other,SMALL,0.16
+P15,Baker's choco chips,Bars,SMALL,3.4
+P16,Organic choco syrup,Other,SMALL,1.47
+P17,Caramel stuffed bars,Bars,SMALL,0.54
+P18,Manuka honey choco,Other,SMALL,4.75
+P19,70% Dark bites,Bites,SMALL,4.97
+P20,Smooth sliky salty,Bars,SMALL,2.97
+P21,Choco coated almonds,Bites,SMALL,6.17
+P22,Peanut butter cubes,Bites,SMALL,3.57
