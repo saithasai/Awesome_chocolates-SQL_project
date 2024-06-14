@@ -1,4 +1,7 @@
 # Awesome Chocolates
+<img src="https://media.easemytrip.com/media/Blog/India/637866648787392853/637866648787392853OSwCYU.jpg" width="1000" height="600" />   
+
+
 The dataset contains a diverse set of Chocolates sales transactions in diffrent geographical regions,various salespeople from different locations and products details,and it targets the revenue produced and the quantity of products sold in each case. 
 
 ### Objective
